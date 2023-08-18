@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Roboto+Mono:ital@1&family=Rubik:wght@500&display=swap');
+*{
+    margin: 0;
+    text-align: center;
+}
+img{
+    width: 100%;
+}
+h3{
+    background-color: #F24405;
+    display: inline;
+    padding: 2%;
+    margin: 10%;
+    border: black solid 3px;
+    border-radius: 10px ;
+    color: white;
+    text-shadow: black 2px 2px 2px;
+}
+p{
+    font-size: large;
+}
+body{
+    background-color:#F2E6D0;
+    min-width: 510px;
+}
+form{
+    width: 40%;
+    margin: auto;
+}
+div{
+    width: 100%;
+    margin: auto;
+}
+input{
+    font-size: larger;
+    width: 100%;
+    padding: 2%;
+}
+button{
+    font-size: larger;
+}
+
