@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+}
+header{
+    background-color: #61776C;
+}
+
+body{
+    background-color: #FFEAC5;
+}
+#title{
+    background-color: #61776C;
+    color: white;
+}
+a{
+}
+.slideshow{
+    margin: auto;
+}
+img{
+    boarder: 5px solid #61776C;
+}
+.footer{
+    background-color:#61776C ;
+    margin-top: 5%;
+    color: white;
+}
+#stfuf{
+    max-width: 800px;
+    margin: auto;
+}
+@media only screen and (max-width: 700px){
+    p{
+        font-size: small;
+    }
+    h5{
+        font-size: medium;
+    }
+    .link{
+        font-size: small;
+    }
+    .bt{
+        font-size: small;
+    }
+}

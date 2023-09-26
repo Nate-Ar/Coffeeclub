@@ -1,0 +1,14 @@
+header{
+    background-color: #61776C;
+}
+body{
+    background-color: #FFEAC5;
+}
+form{
+    max-width: 600px;
+    width: 80%;
+    margin: auto;
+}
+h1{
+    font-size: 45px;
+}
