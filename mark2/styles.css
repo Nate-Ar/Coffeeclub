@@ -8,11 +8,14 @@ header{
 body{
     background-color: #FFEAC5;
 }
-#title{
+.heads{
     background-color: #61776C;
     color: white;
 }
-a{
+.headTitle{
+    display: inline;
+    text-decoration:underline;
+    color: white;
 }
 .slideshow{
     margin: auto;

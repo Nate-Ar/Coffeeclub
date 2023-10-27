@@ -12,3 +12,8 @@ form{
 h1{
     font-size: 45px;
 }
+.headTitle{
+    display: inline;
+    text-decoration: underline;
+    color: white;
+}
