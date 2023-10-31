@@ -12,9 +12,15 @@ body{
     width: 18rem        ;
 }
 #test{
-    width: 45%;
+    width: 75%;
 }
 .headTitle{
     color: white;
 
+}
+h1{
+    display: inline;
+}
+article{
+    margin-bottom: 3%;
 }
