@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+}
+header{
+    background-color: #61776C;
+}
+
+body{
+    background-color: #FFEAC5;
+}
+.pictues{
+    width: 18rem        ;
+}
+#test{
+    width: 45%;
+}
+.headTitle{
+    color: white;
+
+}
